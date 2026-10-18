@@ -11,17 +11,17 @@ $\color{#82998f}{\textsf{Hello!}}$
 
 <div align="center">
 
-$\color{#98aba0}{\textsf{You can call me either by}}$ 
+$\color{#94a89c}{\textsf{You can call me either by}}$ 
 </div>
 
 <div align="center">
 
-$\color{#afbeb1}{\textsf{C'link names such as hyper or meds, or Apollo.}}$ 
+$\color{#a6b6aa}{\textsf{C'link names such as hyper or meds, or Apollo.}}$ 
 </div>
 
 <div align="center">
 
-$\color{#afbeb1}{\textsf{I go by he ⠀ it ⠀ they. They is preferred }}$ 
+$\color{#b8c5b9}{\textsf{I go by ⠀he ⠀ it ⠀ they.⠀They is preferred }}$ 
 </div>
 
 <div align="center">
