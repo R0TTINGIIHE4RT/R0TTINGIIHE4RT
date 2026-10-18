@@ -16,7 +16,7 @@ $\color{#98aba0}{\textsf{You can call me either by}}$
 
 <div align="center">
 
-$\color{#afbeb1}{\textsf{C'link names, such as hyper or meds, or Apollo.}}$ 
+$\color{#afbeb1}{\textsf{C'link names such as hyper or meds, or Apollo.}}$ 
 </div>
 
 <div align="center">
