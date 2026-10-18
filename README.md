@@ -21,6 +21,11 @@ $\color{#afbeb1}{\textsf{C'link names such as hyper or meds, or Apollo.}}$
 
 <div align="center">
 
+$\color{#afbeb1}{\textsf{I go by he : it : they.}}$ 
+</div>
+
+<div align="center">
+
 $\color{#c6d1c4}{\textsf{Cuddles are encouraged}}$ 
 </div>
 
