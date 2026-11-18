@@ -2,7 +2,7 @@
 ⠀
 
 ⠀
-<img height="300" alt="azraliedtome" src=coiloo.png align="right"/>
+<img height="300" alt="azraliedtome" src=cuddles.webp align="right"/>
 
 <div align="center">
 
