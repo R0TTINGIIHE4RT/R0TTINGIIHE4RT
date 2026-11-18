@@ -31,5 +31,5 @@ $\color{#c1c8b5}{\textsf{Cuddles are encouraged}}$
 
 <div align="center">
 
-$\color{#ced6bf}{\textsf{W2int pref}}$ 
+$\color{#ccd4bf}{\textsf{W2int pref}}$ 
 </div>
