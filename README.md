@@ -29,7 +29,4 @@ $\color{#99a195}{\textsf{I go by ⠀he ⠀ it ⠀ they.⠀They is preferred }}$
 $\color{#c1c8b5}{\textsf{Cuddles are encouraged}}$ 
 </div>
 
-<div align="center">
 
-$\color{#ced6bf{\textsf{W2int preference }}$ 
-</div>
