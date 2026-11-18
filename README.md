@@ -6,30 +6,30 @@
 
 <div align="center">
 
-$\color{#565064}{\textsf{Hello!}}$ 
+$\color{#491854}{\textsf{Hello!}}$ 
 </div>
 
 <div align="center">
 
-$\color{#625f76}{\textsf{You can call me either by}}$ 
+$\color{#5c3661}{\textsf{You can call me either by}}$ 
 </div>
 
 <div align="center">
 
-$\color{#6c6e82}{\textsf{C'link names such as hyper or meds, or Apollo.}}$ 
+$\color{#796b79}{\textsf{C'link names such as hyper or meds, or Apollo.}}$ 
 </div>
 
 <div align="center">
 
-$\color{#8494a6}{\textsf{I go by ⠀he ⠀ it ⠀ they.⠀They is preferred }}$ 
+$\color{#99a195}{\textsf{I go by ⠀he ⠀ it ⠀ they.⠀They is preferred }}$ 
 </div>
 
 <div align="center">
 
-$\color{##9fbcc7}{\textsf{Cuddles are encouraged}}$ 
+$\color{#c1c8b5}{\textsf{Cuddles are encouraged}}$ 
 </div>
 
 <div align="center">
 
-$\color{#c1e4e3}{\textsf{W2int preference }}$ 
+$\color{#ced6bf{\textsf{W2int preference }}$ 
 </div>
